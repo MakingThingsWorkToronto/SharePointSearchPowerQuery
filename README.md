@@ -1,6 +1,6 @@
 # SharePoint Search Excel PowerQuery
 
-Query SharePoint Online Search using Power Query directly from Excel
+Query SharePoint Online Search using Power Query / Power BI directly from Excel
 
 Explore Managed Property Values
 
